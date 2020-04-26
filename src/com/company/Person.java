@@ -8,6 +8,9 @@ public class Person {
     private String soyadi;
     private Date dogumtarihi;
 
+
+
+
     @Override
     public String toString() {
         return "Person{" +
